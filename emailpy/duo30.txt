@@ -1,0 +1,560 @@
+1 We must respect the will of the individual.
+2 Take it easy.  I can assure you that everything will turn out fine.
+3 Let go of your negative outlook on life.  Always maintain a positive attitude.
+4 You should be fair to everyone regardless of national origin, gender, or creed.
+5 Equality is guaranteed by the Constitution.
+6 He leaned against the pillar and gazed at the Statue of Liberty.
+7 A woman passed by me giving off a subtle scent of perfume.  It reminded me of my ex-girlfriend.
+8 Natto smells awful but tastes terrific.
+9 I'm soaked with sweat.  Stand back!  You stink.  Take a shower.
+10 Bob was so beside himself that he could scarcely tell fact from fiction.
+11 His new novel, which combines prose with his gift for poetry, is going to be published.
+12 An up-to-date edition of the encyclopedia will come out next month.
+13 Ms.Yamada translated the fascinating fairy tale into plain Japanese.
+14 The following passage is quoted from a well-known fable.
+15 Are you familiar with contemporary literature? I know next to nothing about it.
+16 At times I confuse curve with carve.
+17 Don't be shy.  Your pronunciation is more or less correct.
+18 This article contains tips for those who are eager to increase their vocabulary.
+19 His latest works are on display at the city hall.  They are fabulous beyond description.
+20 Could you move over a little? Oh,sorry.  I didn't realize I was taking up so much space.
+21 Whats this ugly object? This is a piece of abstract art!
+22 I begged Richie to lend me a hundred bucks, but he shook his head, saying, Im broke, too.
+23 Im apt to buy things on impulse whenever something is on sale.  So am I.
+24 As it is, ordinary people cannot afford to purchase such luxuries.
+25 As we anticipated, the unemployment rate has risen three quarters in a row.
+26 I have to cut down on my expenses, so from now on, Im going to keep track of them on a daily basis.
+27 In any case, the union has to compromise to a certain extent.
+28 Competent mechanics are in great demand, so they earn decent wages.
+29 The president announced a concrete plan to carry out welfare reform.
+30 His policy will no doubt lead to dismal consequences.  It needs a through review.
+31 It goes without saying that the aging of society is inevitable.
+32 Please take a look at this chart.  It indicates that juvenile delinquency is on the increase at an alarming rate.
+33 In many business districts, there are a lot of vacant lots which have been for sale for years.
+34 The population density in the metropolis is gradually decreasing.
+35 In all likelihood, the birthrate will continue to decline steadily for years to come.
+36 The power plant supplies the remote county with electricity.
+37 You are not allowed to operate this device without permission.
+38 In fact, the inhabitants have been exposed to radiation.
+39 One cannot emphasize too much the potential danger of nuclear energy.
+40 For years the press overlooked the problem.  But now, if anything, they are making too much of it.
+41 As well as cultivating grain, the farmer runs a grocery store.
+42 The research institute was established in the late 1960s.
+43 Why don't you concult Starr in person? He's by far the most prominent attorney around here.
+44 I'll write it down just in case, because I have a bad memory.
+45 The lawyer recommended that his client take legal action against the insurance company.
+46 They are entitled to be compensated for their injuries.
+47 So far, no less than 200 people have died of the flu epidemic.
+48 The effect of those pills is intense but brief.
+49 He has a habit of biting his nails.  Its absolutely disgusting.
+50 My grandma strained her back when she bent down to hug my son.
+51 If you have a stiff neck, try an herbal remedy.
+52 Medical breakthroughs have brought about great benefits for humanity as a whole.
+53 We cant apply cloning techniques to cattle, let alone human beings.  Its forbidden.
+54 Whales are classified as mammals.
+55 The theory of evolution is beyond the reach of my imagination.
+56 The biologist is proud of his historic discovery and doesn’t mind boasting about it.
+57 On ethical grounds, they are opposed to so-called gene therapy.
+58 The initial symptoms of the disease are fever and a sore throat.  
+59 The structure of the brain is complex.
+60 Owing to illness, some representatives were absent from the annual conference.
+61 Little by little, my son-in-law is recovering from stomach cancer, and now he is in good spirits.
+62 This is fake, isnt it? Hey, its a genuine antique.  No way!
+63 Anything else? Thats it.  For here or to go? To go.
+64 How much is this rug? 100 including tax.  OK, I'll take it.
+65 I don't think those pants look good on you.  Try these on.  They're really in now!
+66 He got out of the cab in haste, saying, Keep the change.
+67 Delivery service is available to our customers for a slight extra charge.
+68 Its on me.  No.  You treat me every time we eat out.  Well, okey.  Lets split the check then.
+69 While I was hanging out at the mall, I ran into Ken.
+70 I was short of cash, so I withdrew the 100 that I had deposited in my bank account last week.
+71 On her way home she was robbed of her purse.
+72 Thats odd!  Tell me how it happened.  I'll explain it to you later.
+73 My parents gave me a 6 pm curfew as a punishment because I broke my promise.
+74 As the proverb goes, The end justifies the means.
+75 Now that Ive found that theres no one to turn to, I'll have to stand on my own two feet.
+76 The chairman cut me off, saying, Time to wind things up.  Lets take a vote.
+77 We exchanged frank opinions in the meeting, but consensus is yet to be reached regarding this matter.
+78 Do you agree or disagree with him? Im on his side.
+79 Strictly speaking, his view differs somewhat from mine.
+80 Could you go over it again? I couldnt make out what you were getting at.
+81 No one backed me up at first, but eventually I talked everyone into going along with my plan.
+82 I admire your perseverance, courage and wisdom.  You flatter me!
+83 In making a decision, I rely not on logic but on instinct.
+84 He came up with an ingenious, sensible solution and immediately put it into practice.
+85 From an objective viewpoint, the former is inferior to the latter.
+86 Your idea sounds marvelous in theory, yet I don't think it will work in practice.
+87 We expected him to defeat his opponent, but he failed to live up to our expectations.
+88 Ironically, despite their best endeavors, their mission resulted in complete failure.
+89 Her genius makes up for her lack of firsthand experience.
+90 She possesses a great capacity for overcoming any obstacle.
+91 Without your solid support, the deal would have fallen through.  Im grateful to you.
+92 Bringing flammable items into the cabin is prohibited.
+93 Our flight to Vienna was delayed on account of a minor accident.
+94 The plane blew up and plunged into the ocean, killing all the people on board.
+95 They are working around the clock looking into the cause of the crash.
+96 Unfortunately, few passengers survived the catastrophe.
+97 The aviation expert analyzed the statistics in detail.
+98 On behalf of all the staff, Id like to express our sympathy for the victims.
+99 In a sense, he is to blame for the disaster.
+100 The vehicles are inspected for defects every three months.
+101 I was amazed to see that our utility bills came to so much!
+102 Turn the faucet off!  mom yelled in a rage.
+103 Tighten the lid so the food doesnt go bad.
+104 Can I borrow your scissors? Sure, here you are.
+105 You can substitute some trasparent glue for a needle and thread.
+106 I dyed this fabric and it shrank.
+107 Im getting rid of this leather jacket because its worn out at the elbows.
+108 Add some flour to the mixture and stir it until it becomes thick.
+109 What should we do with the leftovers? Keep them in the fridge for now.  I'll heat them in the microwave later.
+110 I could have laid out all that money on a new PC, but on second thought I decided to put some aside for a rainy day.
+111 A cell phone has become something of a necessity, and I cant do without one.
+112 No sonner had I sat back and relaxed than my wife asked me to do the chores.
+113 She laid the baby down and lay down beside him.
+114 Put this stuff away!  Its in the way.
+115 When the kids made believe they were dinosaurs, they were scolded by their mother.
+116 After he bumped into the shelf, the priceless chine fell and shattered into fragments.  
+117 Can you keep an eye on my kids for a while? I need to pick up Ken.  No problem.
+118 Our neighbor told us off for making a mess in his yard.
+119 Dolly resembles her big sister in every way.  You cant tell them apart.
+120 As a rule, twins have a lot in common.
+121 Im tired of doing the dishes, doing the laundly, and so on!
+122 My favorite pastime is strolling along the shore.  Its pleasant.
+123 Im exhausted!  Lets take a break in the shade.  Why not? 
+124 Bob, this vending machine is out of order.  Oh no!  Im dying of thirst!
+125 He fainted with hunger and fatigue, but came to after a while.
+126 The auditorium was empty except for a single piece of furniture.
+127 Any apartment will do as long as the rent is low.  Im not particular about it.
+128 His sixty- year- old cousin inherited a piece of real estate by a lake.
+129 So much for small talk.  Lets get down to business.
+130 Lucy resented the aggressive salesman trying to make her sign the contract.
+131 There are a number of factors discouraging us from investing in stocks.
+132 Japan imports various raw materials and exports manufactured goods.
+133 In the course of its economic development, Japan has abandoned its traditional values.
+134 The world is faced with an unprecedented crisis.
+135 In short, the purpose of the regulations is to protect domestic industries.
+136 In order to keep up its competitiveness in the world, Japan must undertake sweeping deregulation in earnest.
+137 We cannot turn our backs on desperate people who are at risk.
+138 The parliament decided to provide developing countries with financial aid.
+139 Some say the British monarchy should be abolished.  What do you think? 
+140 They sought shelter from the attack but found no place to hide.
+141 Theres little prospect that the two countries will make significant progress in disarmament.
+142 The negotiations are under way.  Before long, they will enter a crucial phase.
+143 The slaves were anxious to alter their destinies.
+144 The aristocrats abused their privileges to their hearts content.
+145 The revolution in itself, bore no fruit, after all.
+146 Bob cut in our conversation, saying, Im against it!  But everybody ignored him.
+147 We skipped his turn on purpose.
+148 He saw someone being bullied, but he turned a blind eye.
+149 When Nick and I cheated on an exam, I was suspended from school.  As for Nick, he got away with it.
+150 They are hostile to Richard because they are jealous of his wealth and status.
+151 I hate him!  He behaves as if he were somebody.
+152 In spite of our compliments, he frowned and turned away.  He was so rude!
+153 He claimed that the enormous property was at his disposal.
+154 The more stubborn you are, the more isolated you become.
+155 Dont beat around the bush!  What am I supposed to do? Just wait and see.  Time will tell.
+156 Please hand in your assignment via e-mail no later than 5 pm on June 10 
+157 Joe is anything but diligent.  Thats why he flunked math again.
+158 His thesis doesnt make sense.  To begin with, its theme is obscure.
+159 His essay was concise and to the point.
+160 How are you going to deal with this complicated problem? Leave it to me!  Its a piece of cake.
+161 Nick, I want you to look this over before I turn it in.  Sorry, but I have my hands full right now.
+162 What if I dont meet the deadline? I bet he'll get mad at you!
+163 Your summary leaves nothing to be desired apart from the terrible handwriting.
+164 You ought to think over whether the premise is valid or not.
+165 Above all, scientific terms call for precise definitions.
+166 First of all, learn the formula by heart.
+167 To calculate the volume, multiply the length by the width by the depth.
+168 Tiny cracks were found in the bottom of the barrel.
+169 This chapter will focus on the concepts of geometry.
+170 Phil is much more interested in academic subjects than in practical skills.
+171 Something's gone wrong with this microscope.  I need to have it repaired.  Let me see it.  Maybe I can fix it.
+172 What is an instrument? For instance, a gauge, such as a thermometer or a barometer.
+173 The minute particles are barely visible to the naked eye.
+174 Muscle tissue consists of a vast number of cells.  
+175 This substance is mostly composed of hydrogen and oxygen.
+176 The exact temperature is 22.68 degrees Celsius.
+177 Naomi likes to show off her perfect figure.  I wish I were thin like her.  I envy her.  You could go on a diet.
+178 I fell in love with Naomi at first sight.  Three months later, I took a chance and proposed to her, but she turned me down.
+179 I met the man by chance.  Hes gentle and smart.  Whats more, hes single!
+180 His nephew was brought up to be modest and considerate.
+181 I introduced Bob to my folks, and they took to him ato once.
+182 People should be judged not so much by how they look as by who they are.
+183 Its not your title that counts.  Thats for sure!  exclaimed Bob.
+184 As a self-made man put it, A man of vision will make good in the end.
+185 Keep in mind that youth is not eternal.
+186 I cant figure out why on earth everybody feels so much contempt for Bob!
+187 I cant help laughing at him because he keeps on making stupid mistakes.  He'd be the last person to learn his lesson.
+188 To make matters worse, he isnt even conscious of annoying us.
+189 Since I was in a hurry, I put my gloves on inside out by mistake.
+190 Dave is fat and clumsy.  When he leaped over the shallow stream, he stumbled and twisted his ankle.
+191 Im scared of heights.  You're a coward!
+192 The passive man seldom, if ever, expresses himself in public.
+193 Nick convinced me that all superstitions are irrational.
+194 I tremble with fear at the thought of an injection.
+195 Since Bob is lazy at heart, he frequently neglects his duties.
+196 While Bob was at work, Jennifer was at home absorbed in silly soap operas.
+197 Bob likes cartoons, but I dont think much of them.  As a matter of fact, theyre boring.
+198 It occurred to me that he was holding something back, because he wouldnt look me in the eye.
+199 When her patience gave out, she grabbed his collar and swore at him.
+200 I must admit we quarrel every now and then, but generally we're on good terms with each other.
+201 Do you mind if I stop by your house? No, not at all.  Be my guest!
+202 Hold on.  I'll be right back.  Dont hang up!
+203 I cant put you up.  For one thing, my dad drops in on me from time to time.
+204 While Jennifer was standing still, Bob was pacing back and forth along the sidewalk.
+205 Lets make up, Lisa.  Stop taking me for granted!  We're through for good this time.  I mean it!
+206 Come on!  Dont get so emotional, Lisa.  I didnt mean to hurt you.  Lets talk it over.
+207 You betrayed me!  Please forgive me.  How can I make it up to you? I'll get even!
+208 You should confess your sins rather than conceal them.
+209 Keep your word; otherwise youll end up losing face.
+210 Bob sticks to his moral principles and believes that honesty pays off in the long run.
+211 Cheer up!  You couldnt help it!  I did my best.  I know.  Dont dwell on the past.  You can start over!
+212 Jane, please do me a favor and give me a ride to Times Square.  I wish I could, but Im tied up right now.
+213 As usual, Mike turned up on time.  Hes very punctual.
+214 The other day I ran out of gas in the middle of a busy Interstate.
+215 A truck driving ahead of me skidded, tuned over, and scattered its load all over the road.
+216 He recalled that a collision had been avoided by sheer luck.
+217 In case of an emergency, get in touch with my agent right away.
+218 Jane, where are we heading? I think we're lost.  We went in the wrong direction.  Damn!  Pull over!
+219 My rusty Ford broke down, obstructing the intersection.
+220 There are so many fine scratches and dents on its surface, its no use polishing it.
+221 Hey, we're stuck in a traffic jam!  Chill out, Joe.  Lets take a shortcut!  We'll get there in time.
+222 Ive got a flat tire.  Can you give me a hand? I'd be glad to.
+223 The ambulance went out of control and came close to running over a pedestrian.
+224 He contends that primitive life once existed on Mars.
+225 The crew is busy preparing for the voyage into outer space.
+226 They conducted a series of experiments under zero gravity.
+227 Many astronomers assume that the universe will expand infinitely.
+228 The astronauts were greeted with spontaneous applause.
+229 A fund was set up with a view to preserving our endangered planet.
+230 The massive flood paralyzed the local transportation network.
+231 The equator divides the globe into two hemispheres.
+232 I think its cruel to trap animals for fur coats.  
+233 The organization plays a principal role in wildlife conservation.
+234 Many fragile species are on the verge of extinction.
+235 The prolonged drought did severe damage to the crops.
+236 Tropical rain forests are quickly disappearing on a global scale.  In part, its due to asid rain.
+237 It is said that global warming is directly related to carbon dioxide emissions.
+238 The destruction of the ozone layer affects the environment.
+239 The committee called on all nations to work side by side to curb air pollution.
+240 A satellite was launched into orbit to monitor melting glaciers.
+241 The ecologist has warned us time and again that petroleum is not only a blessing but also a curse.
+242 The continent is abundant in fossil fuels.
+243 The region is relatively rich in mineral resources.
+244 Wheat accounts for approximately two-thirds of agricultural production in the area.
+245 Fertile soil is indispensable for a good harvest.
+246 A humid climate is characteristic of the peninsula.
+247 The active volcano erupts at regular intervals.
+248 The Panama Canal connects the Atlantic with the Pacific.
+249 The geographical features here are similar to those of our prefecture.
+250 More often than not, famine is accompanied by plague.
+251 A devastating earthquake hit the state capital, leaving tens of thousands of residents homeless.
+252 Watch out!  The ceiling is giving way.
+253 The weather forecast says the typhoon is likely to accelerate and approach the coast.
+254 Its still up in the air whether the game will be called off or not.  So what? It makes no difference to me.
+255 Its foggy, isnt it? It sure is.  But chances are it'll clear up later on.
+256 For the most part, modernization is identified with westernization.
+257 Urban culture appears to be attractive to many people, in particular, to younger people.
+258 AI stands for artificial intelligence.
+259 Household appliances are becoming more convenient day by day.
+260 My income is not adequate to provide for my family of four, but we have to make the best of it.
+261 The popularity of a website depends on its content.
+262 Youve got to keep up with it.  Once you fall behind, its hard to catch up.
+263 As technology rapidly advances, its tough to keep pace with it.
+264 More and more people are rushing to make use of the interactive nature of the medium.
+265 Innovation has something to do with the ablilty to notice unutual phenomena.
+266 A bunch of other companies are imitating our excellent methods.
+267 The once desolate valley was transformed into a thriving hub of hi-tech business.
+268 Although theres still plenty of room for improvement, his invention is superior to conventional equipment in every respect.
+269 The strength of the firm is attributed to its unique and future-oriented strategies.
+270 SONY has integrated a wide range of functions into this cool gadget.  Its catching on from coast to coast.
+271 This tool comes in handy, so I always keep it close at hand.
+272 In general, consumers prefer quantitiy to quality.  Its the other way around today.
+273 Obviously, the advertisement is aimed at teenagers.
+274 The factory now under construction will assemble 1000 VCR units per day.
+275 Efficient machinery replaced manual labor.
+276 In those days, the gigantic corporation had a virtual monopoly over internal commerce.
+277 With restrictions removed, thousands of new enterprises have come into being.
+278 As a result of his ridiculous venture, he is in danger of going bankrupt.
+279 Compared to the previous year, business is looking up in terms of sales.  However, we havent made any profit yet.
+280 Im going to be transferred to an overseas branch.  Oh, I'll miss you.  Please drop me a line.
+281 While he was away on business, his wife gave birth to a baby boy.
+282 Apparently, Nick wasnt willing to take on the task because it would just add to his burdens.
+283 Bob had intended to take her out tonight, but he had to work overtime.
+284 Please estimate the losses by Friday at the latest.  I'll manage it somehow.
+285 Nick, Im counting on you.  OK, I'll see to it.  Thanks, I appreciate it.  Dont mention it.
+286 He pretends to be enthusiastic when his boss is around.
+287 He got promoted at the expense of his colleagues.  He should be ashamed of himself.
+288 As the recession set in, temporary employees were laid off one after another.
+289 Nowadays, many people are out of work against their will.  Who is responsible for that? 
+290 Ive gotten pessimistic, and Im worried about something I would never have been concerned about before.  
+291 Today, even white-collar workers are confronted with great hardships.
+292 The authorities are striving in vain to stabilize the currency.
+293 We've come to the conclution that nothing is more urgent than reducing Japan's huge deficit.
+294 The questionnaires were distributed at random.
+295 All you have to do is fill in the blanks below (Please print in black or blue ink).
+296 In addition to a 10% discount, you can pick out an optional excursion for free.
+297 Round-trip fares to each destination are as follows.
+298 Dont forget to confirm your reservation in advance.  I wont.
+299 Be sure to check in at least 45 minutes prior to departure time.
+300 I attached my name tag to my baggage, but it soon came off.
+301 On average, these packages weigh two pounds.
+302 This prastic garbage bag is free of hazardous chemicals.
+303 This flashlight is getting dim.  It needs new batteries.
+304 Excuse me.  How ofen do the shttle buses run to downtown New York? 
+305 The motel can accommodate as many as 400 guests.
+306 This suite is three times larger than my condominium.
+307 Littering in this facility is subject to a maximum fine of 500.
+308 That restaurant is always packed.  We'd better make a reservation beforehand.
+309 Sorry to interrupt your meal but Id like a word with you in private.  Can I get back to you later? 
+310 The cook was astonished at his incredible appetite.
+311 Whats going on down there? Im curious.  I have no idea.
+312 Excited fans were hanging around the rear exit hoping to catch a glimpse of Michael.
+313 On encountering the celebrity, they asked for his autograph.
+314 Whenever I go abroad, I suffer from jet lag and diarrhea.
+315 I feel sort of dizzy and I feel like throwing up.  You look pale!
+316 Take some aspirin.  It will cure you of your headache in no time.
+317 Im afraid Im coming down with something.  You should take a day off.
+318 Some of the ingredients in this beverage are harmful, especially if you are pregnant.
+319 Good nutrition is vital for an infant's growth.
+320 Moderate exercise stimulates the circulation of the blood.
+321 My physician advised me to refrain from alcohol for the time being.
+322 I do want to get into shape and lose some weight, so I go swimming every morning.
+323 He caught a nasty cold because he stayed up late last night.
+324 The surgeon persuaded him to undergo an organ transplant.
+325 Since our father is bedridden, we take turns looking after him.
+326 Our hypothesis is that eating excessive amounts of junk food contributes to early mortality.
+327 The government did not take appropriate measures to prevent the infection from spreading.
+328 The minister was obliged to resign from the Cabinet.
+329 Many people regard the current compulsory education system as being obsolete.
+330 Many people encouraged me to fulfill my ambitions.
+331 To make his dreams come true, he dropped out of school and made his way to Tokyo.
+332 What do you do? Im a college student, a freshman at Harvard.  Whats your major? Philosophy.
+333 Tuition will be raised by nearly ten percent as of April 1, 2001.
+334 Im of two minds whether to apply for the scholarship or not.  Give it a try!
+335 As soon as he graduated from Keio Universitiy, he took over his family's business 
+336 You arent cut out for the military because of its rigid discipline.
+337 I am determined to make a living as a playwright at all costs.
+338 As he grew up, he learned to put things in perspective.
+339 Conformity is an essential element of our homogeneous community.
+340 Id rather go my own way than toil away for a company.  Trying to fit into a mold gets me nowhere!
+341 Tom takes after his uncle in personality.  I mean, he is obstinate by nature.  He never gives in.
+342 When the time is ripe, be bold and go for it!  I'll stand by you.
+343 I'll stand up for what I believe in and wont yield to any threats.
+344 If only I could conquer my weaknesses!  Its up to you.
+345 You should make the most of this rare opportunity to demonstrate your talent.
+346 You wont let me down.  I have great faith in you.  You can make it!
+347 The spectators were moved by her graceful performance.
+348 In 1995, Ando received architecture's most prestigious award.  
+349 In the face of adversity, Mike accomplished an extraordinary feat.  He deserves praise.
+350 The audience was impresed by his eloquent lecture.
+351 From a humble background, John achieved worldwide fame.
+352 He accumulated a tremendous fortune during the postwar era.
+353 He used to be well off and generous, but now he lives from hand to mouth.
+354 Nick is by no means satisfied with the reward.  He is selfish and greedy.
+355 You owe me 200 altogether, Bob.  When are you going to pay me back? Im sorry, Im hard up.  There you go again!
+356 To Brian's surprise, his debt amounted to a considerable sum.
+357 Stop clinging to your glory days, or you'll be left behind.
+358 You cannot escape from today's harsh realities, so you must adapt to them.
+359 Prosperity does not last forever.  In other words, it will come to an end one of these days.
+360 Proper qualifications are required for the position; computer literacy is a must.
+361 Enclose your resume in this envelope and submit it to the personnel department.
+362 Its optimistic of you to believe that things will work out.  At best theres a fifty-fifty-chance.
+363 Registration forms can be obtained free of charge.
+364 Please give us a call now if you want to participate in the workshop!
+365 For further inquiries, please feel free to contact us toll-free at 1-800-555-1212.
+366 How's it going, Bob? Couldnt be better!  I did well in my job interview!  Good for you!
+367 He gave instructions to the trainees, but they couldnt make heads or tails of them.
+368 You cant do two things at one time!  Its out of the question.  Do them one by one.
+369 Bob,dont disturb her.  Mind your own business, he whispered.
+370 If you persist in bothering her like that, she'll lose her temper.
+371 He was so childish that he couldnt resist temptation.
+372 Stop making a fuss.  It really gets on my nerves!  she shouted.
+373 There's no point in talking back to Nick.  He is a dictator, so to speak.
+374 They are very polite in his presence, but actually, they always talk about him behind his back.
+375 You despise Nick, dont you? On the contrary!  I look up to him.
+376 His constant insults aroused her anger.
+377 Im fed up with just shuffling papers and pouring coffee.  Ive made up my mind to quit.
+378 In reality, many people have difficulty making ends meet.  How can you get by on 100000 yen a month? 
+379 Female clerks may well complain about their routines, which are not challenging at all.
+380 Thanks to a fundamental restructuring, our surplus has swelled threefold.
+381 Many people today think of loyalty to a company as an absurd notion.
+382 I have to commute all the way from a distant suburb.  Im sick of it!
+383 I want to spend the rest of my life pursuing my ideals.
+384 After retirement, Teresa devoted herself to caring for orphans.
+385 For the sake of children in need, we cooperated to collect donations.
+386 The charity is named after a man who gave away some two billion yen.
+387 His autobiography was released today and was sold out by noon 
+388 Ted, who is often referred to as a man of integrity, is going to run for mayor.
+389 The condidate was disapointed by the outcome of the election.
+390 The minicipal council should concentrate more on specific issues.
+391 It is the case that those who live on a pension are forced to lead a hard life.
+392 We should leave out this data.  Its far from accurate.
+393 We tend to associate politicians with hypocrisy.
+394 They are primarily concerned with exploiting us, not with enhancing our living standards.
+395 The man once exerted a dominant influence on the conservative party, but now his power is diminishing.
+396 The spokesperson refused to make any comment, saying, Its under investigation.
+397 The police say theres someone pulling strings behind the scenes.
+398 The executives entertained the bureaucreats at ryotei, or exclusive Japanese restaurants, hoping for something in return.
+399 His secretary flatly denied leaking any confidential information.
+400 No one dares to contradict his/her employer for fear of being fired.
+401 He sacrificed his promising career to retain his dignity.
+402 I might as well kill myself as reconcile myself to my fate.
+403 He was about to commit suicide by swallowing poison when he thought better of it.
+404 The vague rumor proved to be false.  Nevertheless, some skepticism lingers on.
+405 A senior official is suspected of accepting bribes from a company, but there isnt sufficient evidence to arrest him.
+406 Jason, who was in charge of the project, was dismissed for corruption.  
+407 To my knowledge, he has not been involved in the fraud scheme.
+408 They found out the truth while examining a pile of relevant documents.
+409 During the trial it came to light that they had been covering up illegal transactions for decades.
+410 The detective took down his testimony on the spot, word for word.
+411 For the first time in my life, I felt a pang of conscience, but there was no other way out.
+412 Im still haunted by a bibid nightmare I had last night.
+413 By and large, reporters dont hesitate to intrude on one's privacy.
+414 The author revised his manuscript over and over again.
+415 He is second to none when it comes to finding fault with others.
+416 On the whole, the elite are not sensitive to criticism.
+417 When a tabloid revealed that he was a drug addict, his reputation was all but ruined.
+418 They considered every aspect of the defense program and pointed out numerous flaws.
+419 We will not tolerate anyone who engages in terrorism.
+420 The notorious rebel was ultimately captured and confined to jail.
+421 Troops were swiftly called in to put down the riot.
+422 We should appeal to reason instead of resorting to violence.
+423 I suggest we adopt flexible tactics for the moment.
+424 The armed forces succeeded in occupying the entire territory.
+425 Under the circumstances, the enemy has no choice but to surrender.  They cant hold out any longer.
+426 Sooner or later, the hostages will be set free.
+427 Under the reign of tyranny, innocent people were deprived of their citizenship.
+428 Some soldiers were reluctant to obey the commands.
+429 His regime is bound to collapse.
+430 The allies condemned the invasion as a violation of UN resolutions.
+431 We cannot rule out the possibility that civil war will break out in that country.
+432 The colony declared independence and became a republic.
+433 An immense monument was erected in honor of the noble patriot.
+434 He got down on his knees and prayed for the souls of the deceased.
+435 The Supreme Court is located near the Imperial Palace.
+436 The pro-choice group protested against a ban on abortion.
+437 Senator Ford remained neutral in the bitter controversy.
+438 Ford has been in a difficult situation all week long.  He is no longer capable of coping with it.
+439 The summit talks are to be broadcast simultaneously throughout the world.
+440 Diplomatic dialogue helped put an end to the conflict.
+441 Johnson was appointed as a goodwill ambassador to foster mutual understanding between the two nations.
+442 The specialist predicts international tension will build up.
+443 In my opinion, permanent peace is nothing but an illusion.
+444 Ethnic minorities struggle against prejudice, poverty, and oppression.
+445 We must make every effort to do away with all discrimination.
+446 The immigrants have endured physical and mental pain.
+447 The amendment was rejected because it didnt take racial diversity into account.
+448 Needless to say, the refugees were longing for freedom.
+449 According to a survey, three in five people today are indifferent to foreign affairs.
+450 What will become of Japan-US relations if the security treaty expires? 
+451 Unless Japan eliminates its unfair tariffs, the US will inpose sanctions.
+452 Trade friction might arise between the two nations at any moment.
+453 Our top priority is to settle this dispute once and for all, so we are ready to meet them halfway.
+454 The federal budget was narrowly approved by Congress.
+455 He argues that the administration must look for alternative sources of revenue.
+456 A poll shows that an overwhelming majority is in favor of the legislation.
+457 The cops are searching for clues to the brutal murder.
+458 The man must be insane.  He cant distinguish vice from virtue.
+459 The fingerprints left on the weapon correspond with the suspect's.
+460 It took us all by surprise when the noted psychologist was accused of kidnapping.
+461 The jury's guilty verdict gave rise to widespread debate.
+462 The man pleaded for mercy, but he was sentenced to twenty years in prison for his crime.
+463 The officer on duty perceived an elderly man coming up behind him.
+464 He caught sight of a thief attempting to break into the house.  
+465 The day before yesterday he witnessed a weird incident in the wilderness.
+466 I became aware of someone staring at me from across the aisle, so I turned around.  But there was no one in sight.
+467 She screamed with horror as someone took hold of her arm.
+468 Infomed of her safety, he breadhed a sign of relief.
+469 The bullet penetrated his chest, leaving him in critical condition.
+470 At present, its still uncertain whether it was done deliberately or by accident.
+471 A deli caught fire and burned down, leaving a heap of ashes.
+472 All of a sudden the fireworks warehouse exploded, and it took two days to put out the blaze.
+473 A bomb went off in a thirty-story building, and more than fifty people were seriously wounded.
+474 A cargo vessel, bound for Athens, sank in the Mediterranean without a trace.
+475 The reckless men froze to death during their expedition to the Antarctic.
+476 The tragedy must be remembered so as not to be repeated.
+477 The exhibition offers profound insights into ancient civilization.
+478 Giotto is credited with sowing the seeds of the Italian Renaissance.
+479 Bob mounted the portrait in a fancy frame, but it was upside down.
+480 This magnificent cathedral dates back to the Middle Ages.
+481 Asian religions inspired him to create splendid sculptures.
+482 They explored the desert in search of buried treasure.
+483 The millionaire insisted on acquiring the masterpiece no matter how much it cost.
+484 Myths and legends should be handed down from generation to generation.
+485 The linguist is fluent in several Chinese dialects.
+486 The tribe worships its ancestors and speak its own language, which is not familiar to us.
+487 The anthropologist says old customs still prevail in the province.
+488 The wicked witch cast an evil spell on the man and turned him into a bug.
+489 They proceeded along the steep path, which was the sole access to the border.
+490 When a big ape emerged from the cave, they got frightened and ran away.
+491 Believe it or not, I saw an alien and then it vanished!  Give me a break!
+492 Quite a few people have been invited to celebrate the couple's anniversary.
+493 It wont be long before everything is ready.  In the meantime, help yourself to some snacks.
+494 Dressed in a loud and peculiar outfit, she stood out in the crowd.
+495 All the guests were touched by her hospitality.
+496 Her shabby clothes were not suitable for the occasion.
+497 That topic is too intimate to share with casual acquaintances.
+498 When Tom gets drunk, he gets crude and offensive.  Stay away from him.
+499 He could hardly comprehend what she was implying.
+500 Bob felt embarrassed when he was teased in front of some girls.
+501 His ambiguous reply made her all the more irritated.
+502 Bob is very timid and blushes when chatting with girls.
+503 Nick looks down on anyone who comes from a rural area.
+504 Whats the matter, Bob? You look so miserable.  Leave me alone.  Its none of your business.
+505 Although Bob was in disguise, I recognized him at a glance.
+506 What are you chuckling about? Bob, you have your sweatshirt on backwards!  Oops!
+507 He is not good at making friends and always keeps to himself.
+508 Having found no place he felt he belonged, he was extremely uneasy and lonely.
+509 I found it pretty hard to adjust to my new surroundings.
+510 I felt utterly out of place among those sophisticated people.
+511 To tell the truth, I dont like classical music.  On the other hand, Molly is really into it.
+512 Bob derives pleasure from observing insects.
+513 How about playing cards or something for a change? Sorry, Im not up for it.
+514 After you.  No please, you go ahead.  Thanks.  You're welcome.
+515 His niece is sociable and mature for her age.  She could pass for twenty-something.
+516 Take care of yourself and say hi to your family for me.  I will.  See you later.
+517 Im looking forward to hearing from you.  Sincerely,
+518 Can you spare a minute? Id like to discuss something of importance to both of us.
+519 It may seem trivial to you but for me its worth paying attention to.
+520 As far as Bob is concerned, anything goes.  By contrast, Jane is very cautious.
+521 After an awkward pause, Bill took her by the hand and dragged her upstairs.
+522 Bill just wanted to comfort Monica, but she interpreted it as romantic interest.  
+523 After making sure she was sound asleep, he crept out of the room and set off.
+524 Between you and me, Lisa, I came across Nick passionately embracing a woman.
+525 Such a remark is open to misunderstanding.
+526 I cant stand it anymore!  Calm down.  I'll come over as soon as possible.
+527 Dont take it literally.  He is inclined to exaggerate.
+528 You should apologize to Lisa for making fun of her.  You went too far this time.  Year ..  I will, sometime when she's in a better mood.
+529 Lisa, are you getting along with Nick? Once in a while, I think of divorcing him.  You must be kidding!
+530 In tears, she tore up his letter and threw it away.
+531 Jennifer deceived me!  You should have known better than to trust her.
+532 Tom regretted having wasted a great deal of his life.
+533 I cannot look back on my adolescence without feeling depressed.
+534 Jennifer left me for another guy.  Oh, you must be upset.  Not really.  Im used to it.
+535 No wonder she didint show up to see him off.  How come? They broke up.  Oh, what a pity!
+536 Living here all by myself is torture!  he sobbed.
+537 To be honest, Im crazy about Ken because he's brave, self-confident, and never afraid of taking risks.  If I were you, Id ask him out!
+538 Ive been going with Jennifer on and off for ages.  Youre as indecisive as ever.  Isnt it about time you settle down? 
+539 It dawned on me that I had been taken in by Jennifer all along.  How naive!  Didnt you see through her? 
+540 Even though she is seeing someone else, I wont give her up.
+541 Hi, Jane.  Whats up? Not much.  How about you? I got married to Jennifer.  Wow!  Congratulations!
+542 Whenever youre in trouble or feeling down, I'll be there for you.
+543 Delight is the opposite of sorrow.
+544 Jennifer went so far as to call me an idiot and she wouldnt take it back.  Serves you right!  You provoked her, didnt you? 
+545 Why do you put up with her arrogance? She's just taking adcantage of you.  Shut up!
+546 Take your time.  I know you need a couple of days to reflect on it.
+547 Bob has to get through this ordeal on his own.
+548 Flies and mosquitoes interfered with his meditation.
+549 The sacred ritual took place after being postponed twice.
+550 All at once, the Buddhist priest burst into laughter, spoiling the solemn atmosphere.
+551 Cover your mouth when you cough, sneeze, or yawn.
+552 One of her relatives passed away three days ago.  Oh, thats too bad.  Im so sorry.
+553 Besides attending the funeral, she needs to make all the arrangements.
+554 I feel for you, Jane.  Grief doesnt fade away quickly.  Im OK.  I'll get over it.
+555 She cherishes the precious memories of her childhood.
+556 Speaking of Jennifer, she got engaged to a businessman.  Im at a loss for words!  I hope she wont break it off.
+557 These days, the motives for marriage are not necessarily pure.  Take Jennifer for example.
+558 Go easy on Bob.  You know, he's been going through a rough period recently.
+559 By the way, do you have the time? Lets see ..  its a quarter to eight.
+560 Let's call it a day, Bob.  Im starved.  Yep.  I'll buy you dinner.
