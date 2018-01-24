@@ -76,11 +76,13 @@ msg['Subject'] = 'Today! '+ str(date.today()) + ' ' + today_weekday + ' DUO 3.0 
 #msg['Subject'] = 'The contents of DUO 3.0 '
 #print (msg['Subject'])
 msg['From'] = '"Oh Life Logger" <marty.cmd@sg.browan.com>'
-msg['To'] = "marty@browan.com"
+msg['To'] = "marty.chao@gmail.com"
 # Send the message via our own SMTP server, but don't include the
 # envelope header.
 if DEBUG == 0 :
-    smtp_host = str(dns.resolver.query("browan.com","MX")[0]).split(" ")[1]
+    #smtp_host = str(dns.resolver.query("browan.com","MX")[0]).split(" ")[1]
+    smtp_host = "sg.browan.com"
+    print (smtp_host)
     s = smtplib.SMTP(smtp_host)
     s.sendmail(msg['From'], msg['To'], msg.as_string())
     s.quit()
