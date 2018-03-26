@@ -64,7 +64,7 @@ except IOError:
 #msg.as_string = msg.as_string + str(old_mail.readlines())
 minetext = "Just reply to this email with your entry.\n" \
     + "這是你在" + str(result.days) +"天前寫的：\n" \
-    + duo[int(index % 560)] \
+    + duo[int(index) % 560] \
     + str(other_day)+"\n"+sum_txt
 #msg = MIMEText(minetext,'plain','utf-8')
 msg = MIMEText(minetext)
