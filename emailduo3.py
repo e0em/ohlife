@@ -12,7 +12,7 @@ import glob
 from datetime import date,datetime
 import os.path
 import time
-import dns.resolver
+# import dns.resolver
 #今天日期 (2006-11-18)
 today = date.today()
 DEBUG = 0
@@ -75,13 +75,13 @@ f.close()
 msg['Subject'] = 'Today! '+ str(date.today()) + ' ' + today_weekday + ' DUO 3.0 ' + 'No.' + index.strip("\n")
 #msg['Subject'] = 'The contents of DUO 3.0 '
 #print (msg['Subject'])
-msg['From'] = '"Oh Life Logger" <marty.cmd@sg.browan.com>'
+msg['From'] = '"Oh Life Logger" <marty.cmd@fw.freedom-tek.com>'
 msg['To'] = "marty.chao@gmail.com"
 # Send the message via our own SMTP server, but don't include the
 # envelope header.
 if DEBUG == 0 :
     #smtp_host = str(dns.resolver.query("browan.com","MX")[0]).split(" ")[1]
-    smtp_host = "sg.browan.com"
+    smtp_host = "fw.freedom-tek.com"
     print (smtp_host)
     s = smtplib.SMTP(smtp_host)
     s.sendmail(msg['From'], msg['To'], msg.as_string())

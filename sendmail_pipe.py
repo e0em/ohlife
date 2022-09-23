@@ -21,8 +21,8 @@ def get郵件本體字典(debug=False):
 
 
 if __name__ == "__main__":
-    TMP_PATH = "./tmp/"
-    eml_dict = get郵件本體字典(True)
+    TMP_PATH = "/home/marty/github/ohlife/tmp/"
+    eml_dict = get郵件本體字典()
     if eml_dict.get("attachment"):
         for i in eml_dict["attachment"]:
             x = base64.b64decode(i["raw"])
