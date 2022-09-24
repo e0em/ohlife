@@ -14,12 +14,15 @@ import random
 import glob
 from datetime import date, datetime
 import os.path
-import time
+import sys
 
 # import dns.resolver
 # 今天日期 (2006-11-18)
 today = date.today()
-DEBUG = 1
+if len(sys.argv) == 2:
+    DEBUG = 1
+else:
+    DEBUG = 0
 BASE_DIR = "/home/marty/github/ohlife"
 INDEX_FILE = BASE_DIR + "/index.txt"
 DUO_DB = BASE_DIR + "/duo30.txt"
@@ -38,12 +41,11 @@ if DEBUG == 1:
 if not os.path.isfile(INDEX_FILE):
     with open(INDEX_FILE, "w+") as the_file:
         the_file.write("0\n")
-fi = open(INDEX_FILE, "r+")
-index = fi.readline()
-# print("Index:"+index)
-fi.seek(0)
-fi.write(str(int(index) + 1))
-fi.close()
+else:
+    with open(INDEX_FILE, "r+") as fi:
+        index = fi.readline()
+        fi.seek(0)
+        fi.write(str(int(index) + 1))
 
 
 def get_week_day(date):
@@ -113,3 +115,6 @@ if DEBUG == 0:
     s.quit()
 else:
     print(msg)
+    print("Subject", msg["Subject"])
+    print("Text Msg")
+    print(minetext)
