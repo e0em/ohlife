@@ -41,7 +41,7 @@ if __name__ == "__main__":
             ree = []
             for j in p_data:
                 res = j.get_text()
-            ree.append(res)
+                ree.append(res)
             body = "".join(ree)
         else:
             body = i["content"].replace("\r\n", "")
