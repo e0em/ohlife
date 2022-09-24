@@ -33,8 +33,9 @@ if __name__ == "__main__":
                 f.write(x)
     else:
         print("No Attachment")
-    the_day = eml_dict["header"].get("date")
-    that_day = the_day.strftime("%Y-%m-%d")
+    # the_day = eml_dict["header"].get("date")
+    # that_day = the_day.strftime("%Y-%m-%d")
+    that_day = eml_dict["header"].get("subject").split()[2]
     for i in eml_dict["body"]:
         if i["content_type"] == "text/plain":
             body = i["content"]
@@ -51,8 +52,9 @@ if __name__ == "__main__":
             body = i["content"].replace("\r\n", "")
     with open(TMP_PATH + that_day + "_ohlife.txt", "w") as f:
         for text in get乾淨的郵件本體list(body):
-            f.write(text)
+            f.write(text + "\n")
     if len(sys.argv) == 2:
         pprint.pprint(eml_dict)
         print(body.split("\r\n"))
         pprint.pprint(get乾淨的郵件本體list(body))
+        print(that_day)
