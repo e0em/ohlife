@@ -26,16 +26,16 @@ def get乾淨的郵件本體list(body) -> list:
 if __name__ == "__main__":
     TMP_PATH = "/home/marty/github/ohlife/tmp/"
     eml_dict = get郵件本體字典()
+    that_day = eml_dict["header"].get("subject").split()[2]
     if eml_dict.get("attachment"):
         for i in eml_dict["attachment"]:
             x = base64.b64decode(i["raw"])
-            with open(TMP_PATH + i["filename"], "wb") as f:
+            with open(
+                TMP_PATH + that_day + "_ohlife." + i["filename"].split(".")[-1], "wb"
+            ) as f:
                 f.write(x)
     else:
         print("No Attachment")
-    # the_day = eml_dict["header"].get("date")
-    # that_day = the_day.strftime("%Y-%m-%d")
-    that_day = eml_dict["header"].get("subject").split()[2]
     for i in eml_dict["body"]:
         if i["content_type"] == "text/plain":
             body = i["content"]
