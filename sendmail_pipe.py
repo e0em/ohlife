@@ -31,21 +31,19 @@ if __name__ == "__main__":
     else:
         print("No Attachment")
     the_day = eml_dict["header"].get("date")
-    that_day = the_day.strftime("%Y%m%d")
+    that_day = the_day.strftime("%Y-%m-%d")
     for i in eml_dict["body"]:
-        try:
-            if i["content_type"] == "text/plain":
-                body = i["content"]
-                break
-            elif i["content_type"] == "text/html":
-                soup = BeautifulSoup(i["content"], "lxml")
-                p_data = soup.find_all("p")
-                ree = []
-                for j in p_data:
-                    res = j.get_text()
-                    ree.append(res)
-                body = "".join(ree)
-        except Exception as e:
+        if i["content_type"] == "text/plain":
+            body = i["content"]
+        elif i["content_type"] == "text/html":
+            soup = BeautifulSoup(i["content"], "lxml")
+            p_data = soup.find_all("p")
+            ree = []
+            for j in p_data:
+                res = j.get_text()
+            ree.append(res)
+            body = "".join(ree)
+        else:
             body = i["content"].replace("\r\n", "")
-    with open(TMP_PATH + "ohlife_" + that_day, "w") as f:
+    with open(TMP_PATH + that_day + "_ohlife.txt", "w") as f:
         f.write(body)
