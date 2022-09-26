@@ -1,4 +1,5 @@
 *.pyc
+index.txt
 tmp/
 .DS_Store
 build/
