@@ -5,10 +5,15 @@ import eml_parser
 import pprint
 
 
-def get郵件本體字典(debug=False):
+def get郵件本體字典自stdin():
     eml_pipe = sys.stdin.read().encode()
-    # ep = eml_parser.eml_parser.EmlParser(include_attachment_data=True)
-    # eml = ep.decode_email_bytes(eml_pipe)
+    eml = eml_parser.eml_parser.decode_email_b(eml_pipe, True, True)
+    return eml
+
+
+def get郵件本體字典自file(sample_image_eml):
+    with open(sample_image_eml, "rb") as eml_handle:
+        eml_pipe = eml_handle.read()
     eml = eml_parser.eml_parser.decode_email_b(eml_pipe, True, True)
     return eml
 
@@ -23,10 +28,7 @@ def get乾淨的郵件本體list(body) -> list:
     return body_text
 
 
-if __name__ == "__main__":
-    TMP_PATH = "/home/marty/github/ohlife/tmp/"
-    eml_dict = get郵件本體字典()
-    that_day = eml_dict["header"].get("subject").split()[2]
+def main(eml_dict, TMP_PATH, that_day):
     if eml_dict.get("attachment"):
         for i in eml_dict["attachment"]:
             x = base64.b64decode(i["raw"])
@@ -53,8 +55,17 @@ if __name__ == "__main__":
     with open(TMP_PATH + that_day + "_ohlife.txt", "w") as f:
         for text in get乾淨的郵件本體list(body):
             f.write(text + "\n")
-    if len(sys.argv) == 2:
+    if len(sys.argv) == 2 and sys.argv[1] == "text":
         pprint.pprint(eml_dict)
         print(body.split("\r\n"))
         pprint.pprint(get乾淨的郵件本體list(body))
         print(that_day)
+        print(sys.argv)
+    return body
+
+
+if __name__ == "__main__":
+    TMP_PATH = "./tmp/"
+    eml_dict = get郵件本體字典自stdin()
+    that_day = eml_dict["header"].get("subject").split()[2]
+    main(eml_dict, TMP_PATH, that_day)
