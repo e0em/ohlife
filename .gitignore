@@ -1,5 +1,6 @@
 *.pyc
 index.txt
+*duo.pyc
 tmp/
 .DS_Store
 build/
@@ -9,10 +10,9 @@ __pycache__/
 *.xlsx
 .pytest_cache/
 *.csv
+index.txt
 *.docx
-*.eml
 *.png
-.vscode/settings.json
 token.pickle
 .tox/
 venv/
