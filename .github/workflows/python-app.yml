@@ -43,6 +43,7 @@ jobs:
       run: |
         pytest
   deploy:
+    runs-on: ubuntu-latest
     steps:
     - name: Deploy On Production Server
       env:
