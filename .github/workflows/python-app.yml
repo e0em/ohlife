@@ -49,5 +49,5 @@ jobs:
         eval $(ssh-agent -s)
         ssh-add - <<< "${{ secrets.SSH_PRIVATE_KEY }}"
         chmod +x decipher.sh 
-        # ./decipher.sh $HOME/secrets/id_rsa.pgp > ./secrets/key
-        # ssh -A -o StrictHostKeyChecking=no -i $HOME/secrets/key marty@fw.freedom-tek.com "cd github/ohlife;git pull"
+        ./decipher.sh $HOME/secrets/id_rsa.pgp > ./secrets/key
+        ssh -A -o StrictHostKeyChecking=no -i $HOME/secrets/key marty@fw.freedom-tek.com "cd github/ohlife;git pull"
