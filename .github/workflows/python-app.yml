@@ -48,10 +48,6 @@ jobs:
       run: |
         eval $(ssh-agent -s)
         ssh-add - <<< "${{ secrets.SSH_PRIVATE_KEY }}"
-        ls -al 
-        ls -al ./secrets
-        pwd
-        id
-        uname -a
-        gpg --quiet --batch --yes --passphrase=$PASSPHRASE --output ./secrets/key --decrypt ./secrets/id_rsa.gpg 
-        ssh -A -o StrictHostKeyChecking=no -i ./secrets/key marty@fw.freedom-tek.com "cd github/ohlife;git pull"
+        # gpg --quiet --batch --yes --passphrase=$PASSPHRASE --output ./secrets/key --decrypt ./secrets/id_rsa.gpg 
+        # ssh -A -o StrictHostKeyChecking=no -i ./secrets/key marty@fw.freedom-tek.com "cd github/ohlife;git pull"
+        ssh -A -o StrictHostKeyChecking=no marty@fw.freedom-tek.com "cd github/ohlife;git pull"
