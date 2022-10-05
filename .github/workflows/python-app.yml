@@ -49,5 +49,5 @@ jobs:
         eval $(ssh-agent -s)
         ssh-add - <<< "${{ secrets.SSH_PRIVATE_KEY }}"
         chmod +x decipher.sh 
-        gpg --quiet --batch --yes --passphrase=$PASSPHRASE --decrypt $HOME/secrets/id_rsa.gpg --output ./secrets/key
+        gpg --quiet --batch --yes --passphrase=$PASSPHRASE --output ./secrets/key --decrypt $HOME/secrets/id_rsa.gpg 
         ssh -A -o StrictHostKeyChecking=no -i $HOME/secrets/key marty@fw.freedom-tek.com "cd github/ohlife;git pull"
