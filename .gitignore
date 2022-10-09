@@ -1,5 +1,7 @@
 *.pyc
 index.txt
+*.swo
+*.swp
 *duo.pyc
 tmp/
 .DS_Store
