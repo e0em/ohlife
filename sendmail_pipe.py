@@ -7,14 +7,14 @@ import pprint
 
 def get郵件本體字典自stdin():
     eml_pipe = sys.stdin.read().encode()
-    eml = eml_parser.eml_parser.decode_email_b(eml_pipe, True, True)
+    eml = eml_parser.parser.decode_email_b(eml_pipe, True, True)
     return eml
 
 
 def get郵件本體字典自file(sample_image_eml):
     with open(sample_image_eml, "rb") as eml_handle:
         eml_pipe = eml_handle.read()
-    eml = eml_parser.eml_parser.decode_email_b(eml_pipe, True, True)
+    eml = eml_parser.parser.decode_email_b(eml_pipe, True, True)
     return eml
 
 

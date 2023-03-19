@@ -8,6 +8,5 @@ if not os.path.isdir(TMP_PATH):
     os.mkdir(TMP_PATH)
 
 
-
 def test_main():
     assert sendmail_pipe.main(eml_dict, TMP_PATH, that_day).split()[0] == "第12測試"
