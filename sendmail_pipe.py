@@ -56,11 +56,11 @@ def main(eml_dict, TMP_PATH, that_day):
         for text in get乾淨的郵件本體list(body):
             f.write(text + "\n")
     if len(sys.argv) == 2 and sys.argv[1] == "text":
-        pprint.pprint(eml_dict)
+        # pprint.pprint(eml_dict)
         print(body.split("\r\n"))
-        pprint.pprint(get乾淨的郵件本體list(body))
+        # pprint.pprint(get乾淨的郵件本體list(body))
         print(that_day)
-        print(sys.argv)
+        # print(sys.argv)
     return body
 
 
